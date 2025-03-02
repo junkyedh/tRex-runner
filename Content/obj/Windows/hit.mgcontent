@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/hit.mp3</SourceFile>
+  <SourceTime>2023-12-20T12:26:24.885443+07:00</SourceTime>
+  <DestFile>C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/bin/Windows/hit.xnb</DestFile>
+  <DestTime>2023-12-22T15:15:25.2726767+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T23:35:54+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T23:35:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

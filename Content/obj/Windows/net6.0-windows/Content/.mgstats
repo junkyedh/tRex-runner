@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/button-press.mp3","C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/bin/Windows/Content/button-press.xnb","SoundEffectProcessor","SoundEffectContent",5178,25449,2932623
+"C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/hit.mp3","C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/bin/Windows/Content/hit.xnb","SoundEffectProcessor","SoundEffectContent",7212,52073,1663425
+"C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/score-reached.mp3","C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/bin/Windows/Content/score-reached.xnb","SoundEffectProcessor","SoundEffectContent",9509,104297,1601768
+"C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/TrexSpritesheet.png","C:/Users/DuongHan/source/repos/TRexRunnerGame/TrexRunner/Content/bin/Windows/Content/TrexSpritesheet.xnb","TextureProcessor","Texture2DContent",3002,493285,555821
